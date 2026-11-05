@@ -268,7 +268,8 @@ async function ping(url) {
   try {
     const res = await fetch(url, { redirect: 'follow', signal: AbortSignal.timeout(10_000), headers: UA });
     await res.body?.cancel();
-    return { ok: res.ok, code: res.status, ms: Math.round(performance.now() - start) };
+    // Uptime, not health: a 4xx (e.g. Cloudflare blocking the CI runner) still means the server answered.
+    return { ok: res.status < 500, code: res.status, ms: Math.round(performance.now() - start) };
   } catch (err) {
     console.warn(`ping ${url} failed: ${err.message}`);
     return { ok: false, code: 'ERR', ms: null };

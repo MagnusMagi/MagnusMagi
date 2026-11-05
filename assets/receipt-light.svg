@@ -16,15 +16,15 @@
 <text class="m" x="32" y="286" font-size="15" fill="#1f2328" font-weight="800">TOTAL</text><text class="m" x="428" y="286" font-size="15" fill="#1f2328" font-weight="800" text-anchor="end">230</text>
 <text class="m" x="32" y="308" font-size="13" fill="#1f2328">BUSIEST DAY</text><text class="m" x="428" y="308" font-size="13" fill="#1f2328" text-anchor="end">SAT · 71</text>
 <path d="M32 325H428" stroke="#59636e" stroke-dasharray="4 4"/>
-<rect x="56" y="372" width="36" height="44" rx="3" fill="#0969da" fill-opacity="0.85"/>
+<rect x="56" y="371" width="36" height="45" rx="3" fill="#0969da" fill-opacity="0.85"/>
 <text class="m" x="74" y="432" font-size="11" fill="#59636e" text-anchor="middle">T</text>
-<rect x="108" y="394" width="36" height="22" rx="3" fill="#0969da" fill-opacity="0.85"/>
+<rect x="108" y="395" width="36" height="21" rx="3" fill="#0969da" fill-opacity="0.85"/>
 <text class="m" x="126" y="432" font-size="11" fill="#59636e" text-anchor="middle">F</text>
 <rect x="160" y="360" width="36" height="56" rx="3" fill="#0969da" fill-opacity="0.85"/>
 <text class="m" x="178" y="432" font-size="11" fill="#59636e" text-anchor="middle">S</text>
 <rect x="212" y="369" width="36" height="47" rx="3" fill="#0969da" fill-opacity="0.85"/>
 <text class="m" x="230" y="432" font-size="11" fill="#59636e" text-anchor="middle">S</text>
-<rect x="264" y="414" width="36" height="2" rx="3" fill="#0969da" fill-opacity="0.85"/>
+<rect x="264" y="414" width="36" height="2" rx="3" fill="#0969da" fill-opacity="0.25"/>
 <text class="m" x="282" y="432" font-size="11" fill="#59636e" text-anchor="middle">M</text>
 <rect x="316" y="409" width="36" height="7" rx="3" fill="#0969da" fill-opacity="0.85"/>
 <text class="m" x="334" y="432" font-size="11" fill="#59636e" text-anchor="middle">T</text>

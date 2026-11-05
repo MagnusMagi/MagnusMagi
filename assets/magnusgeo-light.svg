@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="250" viewBox="0 0 880 250" role="img" aria-label="MagnusGeo: An independent atlas of competitive GeoGuessr, including the players the ladder never shows. 1.18M players crawled, 6.1M profile snapshots, 11 leaderboards, 12 crawl jobs.">
+<style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}@keyframes blink{50%{opacity:0}}@keyframes pulse{50%{opacity:.3}}.blink{animation:blink 1.1s step-end infinite}.pulse{animation:pulse 2.4s ease-in-out infinite}@media (prefers-reduced-motion:reduce){.blink,.pulse{animation:none}}</style>
+<rect x=".5" y=".5" width="879" height="249" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+<clipPath id="c"><rect width="880" height="250" rx="12"/></clipPath>
+<g clip-path="url(#c)"><path d="M44 0V250M88 0V250M132 0V250M176 0V250M220 0V250M264 0V250M308 0V250M352 0V250M396 0V250M440 0V250M484 0V250M528 0V250M572 0V250M616 0V250M660 0V250M704 0V250M748 0V250M792 0V250M836 0V250M0 44H880M0 88H880M0 132H880M0 176H880M0 220H880" stroke="#d0d7de" stroke-opacity=".5"/>
+<circle cx="300" cy="64" r="4" fill="#0969da" fill-opacity=".25"/><circle cx="262" cy="140" r="4" fill="#0969da" fill-opacity=".25"/><circle cx="404" cy="52" r="4" fill="#0969da" fill-opacity=".25"/><circle cx="560" cy="30" r="4" fill="#0969da" fill-opacity=".25"/><circle cx="612" cy="186" r="4" fill="#0969da" fill-opacity=".25"/><circle cx="706" cy="70" r="4" fill="#0969da" fill-opacity=".25"/><circle cx="792" cy="150" r="4" fill="#0969da" fill-opacity=".25"/><circle cx="560" cy="214" r="4" fill="#0969da" fill-opacity=".25"/></g>
+<text class="m" x="32" y="44" font-size="12" fill="#0969da" font-weight="700">FLAGSHIP · RANKED ATLAS</text>
+<text x="32" y="84" font-size="32" fill="#1f2328" font-weight="800">MagnusGeo</text>
+<rect x="725" y="31" width="123" height="22" rx="11" fill="#1a7f37" fill-opacity=".12" stroke="#1a7f37" stroke-opacity=".45"/>
+<circle cx="737" cy="42" r="3.5" fill="#1a7f37" class="pulse"/><text class="m" x="746" y="46" font-size="11" fill="#1a7f37">live · 1867 ms</text>
+<text x="32" y="114" font-size="15" fill="#59636e">An independent atlas of competitive GeoGuessr, including the players the ladder never shows.</text>
+<text x="32" y="176" font-size="34" fill="#1f2328" font-weight="800">1.18M</text><text x="32" y="200" font-size="13" fill="#59636e">players crawled</text>
+<text x="242" y="176" font-size="34" fill="#1f2328" font-weight="800">6.1M</text><text x="242" y="200" font-size="13" fill="#59636e">profile snapshots</text>
+<text x="452" y="176" font-size="34" fill="#1f2328" font-weight="800">11</text><text x="452" y="200" font-size="13" fill="#59636e">leaderboards</text>
+<text x="662" y="176" font-size="34" fill="#1f2328" font-weight="800">12</text><text x="662" y="200" font-size="13" fill="#59636e">crawl jobs</text>
+<text class="m" x="32" y="230" font-size="12" fill="#59636e">Next.js 16 · Postgres · Supabase · TR / EN · magnusgeo.magnusmagi.com</text>
+</svg>

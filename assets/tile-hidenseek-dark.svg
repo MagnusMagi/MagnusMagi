@@ -3,7 +3,7 @@
 <rect x=".5" y=".5" width="429" height="219" rx="12" fill="#0d1117" stroke="#30363d"/>
 <text x="24" y="48" font-size="22" fill="#e6edf3" font-weight="800">Hide &amp; Seek</text>
 <rect x="290" y="29" width="116" height="22" rx="11" fill="#3fb950" fill-opacity=".12" stroke="#3fb950" stroke-opacity=".45"/>
-<circle cx="302" cy="40" r="3.5" fill="#3fb950" class="pulse"/><text class="m" x="311" y="44" font-size="11" fill="#3fb950">live · 701 ms</text>
+<circle cx="302" cy="40" r="3.5" fill="#3fb950" class="pulse"/><text class="m" x="311" y="44" font-size="11" fill="#3fb950">live · 495 ms</text>
 <text class="m" x="24" y="72" font-size="12" fill="#9198a1">street view multiplayer</text>
 <text x="24" y="106" font-size="14" fill="#e6edf3">Hide a spot on Google Street View, everyone else</text>
 <text x="24" y="126" font-size="14" fill="#e6edf3">hunts it on a map. Up to 50 players a room, three</text>

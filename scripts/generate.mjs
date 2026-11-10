@@ -44,6 +44,9 @@ export const CONTENT = {
     { id: 'magicube', name: 'MagiCube', kicker: 'self-hosted webmail', tag: 'open source · mit', url: 'https://github.com/MagnusMagi/MagiCube',
       blurb: 'A Node.js webmail client for Mailcow or any IMAP/SMTP server. No database, push mail over IMAP IDLE.',
       stack: ['React 19', 'Express', 'Tailwind v4', 'IMAP'] },
+    { id: 'airflow', name: 'Airflow', kicker: 'mac fan control', tag: 'macos · coming soon', url: 'https://airflow.magnusmagi.com',
+      blurb: 'A menu bar app for Apple silicon Macs. Run each fan on Auto, at a fixed speed or on your own temperature curve.',
+      stack: ['Swift', 'SwiftUI', 'SMC', 'XPC'] },
   ],
   site: { name: 'magnusmagi.com', url: 'https://magnusmagi.com' },
   stack: {

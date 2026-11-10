@@ -41,6 +41,9 @@ GeoGuessr's ladder only shows you the top of the pile, so I started crawling the
   <a href="https://github.com/MagnusMagi/Magnus-wire"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-magiwire-dark.svg"><img alt="MagiWire: open-source AI news wire in Turkish, English and Estonian" src="assets/tile-magiwire-light.svg" width="49%"></picture></a>
   <a href="https://github.com/MagnusMagi/MagiCube"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-magicube-dark.svg"><img alt="MagiCube: open-source self-hosted webmail with no database" src="assets/tile-magicube-light.svg" width="49%"></picture></a>
 </p>
+<p>
+  <a href="https://airflow.magnusmagi.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-airflow-dark.svg"><img alt="Airflow: macOS menu bar fan control for Apple silicon Macs" src="assets/tile-airflow-light.svg" width="49%"></picture></a>
+</p>
 
 ### What I mostly work with
 

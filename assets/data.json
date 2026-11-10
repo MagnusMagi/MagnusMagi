@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-10 13:31 UTC",
+  "checkedAt": "2026-11-10 17:47 UTC",
   "sites": [
     {
       "name": "MagnusGeo",
@@ -7,7 +7,7 @@
       "host": "magnusgeo.magnusmagi.com",
       "ok": true,
       "code": 200,
-      "ms": 1923,
+      "ms": 2787,
       "history": [
         [
           "2026-11-05",
@@ -40,8 +40,8 @@
       "url": "https://hidenseek.magnusmagi.com",
       "host": "hidenseek.magnusmagi.com",
       "ok": true,
-      "code": 200,
-      "ms": 1643,
+      "code": 402,
+      "ms": 415,
       "history": [
         [
           "2026-11-05",
@@ -74,8 +74,8 @@
       "url": "https://cardinal.magnusmagi.com",
       "host": "cardinal.magnusmagi.com",
       "ok": true,
-      "code": 200,
-      "ms": 134,
+      "code": 402,
+      "ms": 559,
       "history": [
         [
           "2026-11-05",
@@ -108,8 +108,8 @@
       "url": "https://geo.magnusmagi.com",
       "host": "geo.magnusmagi.com",
       "ok": true,
-      "code": 200,
-      "ms": 1195,
+      "code": 402,
+      "ms": 284,
       "history": [
         [
           "2026-11-05",
@@ -142,8 +142,8 @@
       "url": "https://magnusmagi.com",
       "host": "magnusmagi.com",
       "ok": true,
-      "code": 403,
-      "ms": 174,
+      "code": 200,
+      "ms": 421,
       "history": [
         [
           "2026-11-05",

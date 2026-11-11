@@ -43,6 +43,7 @@ GeoGuessr's ladder only shows you the top of the pile, so I started crawling the
 </p>
 <p>
   <a href="https://airflow.magnusmagi.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-airflow-dark.svg"><img alt="Airflow: macOS menu bar fan control for Apple silicon Macs" src="assets/tile-airflow-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/MagnusMagi/Quitter"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-quitter-dark.svg"><img alt="Quitter: open-source macOS menu bar app that quits every running app at once" src="assets/tile-quitter-light.svg" width="49%"></picture></a>
 </p>
 
 ### What I mostly work with

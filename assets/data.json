@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-10 17:48 UTC",
+  "checkedAt": "2026-11-11 10:45 UTC",
   "sites": [
     {
       "name": "MagnusGeo",
@@ -7,7 +7,7 @@
       "host": "magnusgeo.magnusmagi.com",
       "ok": true,
       "code": 200,
-      "ms": 2943,
+      "ms": 2915,
       "history": [
         [
           "2026-11-05",
@@ -31,6 +31,10 @@
         ],
         [
           "2026-11-10",
+          1
+        ],
+        [
+          "2026-11-11",
           1
         ]
       ]
@@ -41,7 +45,7 @@
       "host": "hidenseek.magnusmagi.com",
       "ok": true,
       "code": 402,
-      "ms": 142,
+      "ms": 626,
       "history": [
         [
           "2026-11-05",
@@ -65,6 +69,10 @@
         ],
         [
           "2026-11-10",
+          1
+        ],
+        [
+          "2026-11-11",
           1
         ]
       ]
@@ -75,7 +83,7 @@
       "host": "cardinal.magnusmagi.com",
       "ok": true,
       "code": 402,
-      "ms": 255,
+      "ms": 613,
       "history": [
         [
           "2026-11-05",
@@ -99,6 +107,10 @@
         ],
         [
           "2026-11-10",
+          1
+        ],
+        [
+          "2026-11-11",
           1
         ]
       ]
@@ -109,7 +121,7 @@
       "host": "geo.magnusmagi.com",
       "ok": true,
       "code": 402,
-      "ms": 108,
+      "ms": 434,
       "history": [
         [
           "2026-11-05",
@@ -133,6 +145,10 @@
         ],
         [
           "2026-11-10",
+          1
+        ],
+        [
+          "2026-11-11",
           1
         ]
       ]
@@ -142,8 +158,8 @@
       "url": "https://magnusmagi.com",
       "host": "magnusmagi.com",
       "ok": true,
-      "code": 403,
-      "ms": 103,
+      "code": 200,
+      "ms": 643,
       "history": [
         [
           "2026-11-05",
@@ -168,30 +184,30 @@
         [
           "2026-11-10",
           1
+        ],
+        [
+          "2026-11-11",
+          1
         ]
       ]
     }
   ],
   "week": {
-    "from": "2026-11-03",
-    "to": "2026-11-09",
-    "commits": 3,
+    "from": "2026-11-04",
+    "to": "2026-11-10",
+    "commits": 4,
     "prs": 0,
     "issues": 0,
     "reviews": 0,
-    "private": 216,
-    "total": 219,
+    "private": 210,
+    "total": 214,
     "repos": [
       {
         "name": "MagnusMagi",
-        "count": 3
+        "count": 4
       }
     ],
     "days": [
-      {
-        "date": "2026-11-03",
-        "count": 9
-      },
       {
         "date": "2026-11-04",
         "count": 6
@@ -215,6 +231,10 @@
       {
         "date": "2026-11-09",
         "count": 0
+      },
+      {
+        "date": "2026-11-10",
+        "count": 4
       }
     ]
   }

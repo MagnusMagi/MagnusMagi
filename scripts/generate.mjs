@@ -47,6 +47,9 @@ export const CONTENT = {
     { id: 'airflow', name: 'Airflow', kicker: 'mac fan control', tag: 'macos · coming soon', url: 'https://airflow.magnusmagi.com',
       blurb: 'A menu bar app for Apple silicon Macs. Run each fan on Auto, at a fixed speed or on your own temperature curve.',
       stack: ['Swift', 'SwiftUI', 'SMC', 'XPC'] },
+    { id: 'quitter', name: 'Quitter', kicker: 'quit every app at once', tag: 'open source · mit', url: 'https://github.com/MagnusMagi/Quitter',
+      blurb: 'A menu bar app that quits or force quits every running app in one click, with per-app rules and Auto Quit for idle apps.',
+      stack: ['Swift', 'SwiftUI', 'AppKit', 'Carbon'] },
   ],
   site: { name: 'magnusmagi.com', url: 'https://magnusmagi.com' },
   stack: {

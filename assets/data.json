@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-12 13:49 UTC",
+  "checkedAt": "2026-11-13 13:10 UTC",
   "sites": [
     {
       "name": "MagnusGeo",
@@ -7,7 +7,7 @@
       "host": "magnusgeo.magnusmagi.com",
       "ok": true,
       "code": 200,
-      "ms": 3101,
+      "ms": 2068,
       "history": [
         [
           "2026-11-05",
@@ -39,6 +39,10 @@
         ],
         [
           "2026-11-12",
+          1
+        ],
+        [
+          "2026-11-13",
           1
         ]
       ]
@@ -49,7 +53,7 @@
       "host": "hidenseek.magnusmagi.com",
       "ok": true,
       "code": 402,
-      "ms": 376,
+      "ms": 94,
       "history": [
         [
           "2026-11-05",
@@ -81,6 +85,10 @@
         ],
         [
           "2026-11-12",
+          1
+        ],
+        [
+          "2026-11-13",
           1
         ]
       ]
@@ -91,7 +99,7 @@
       "host": "cardinal.magnusmagi.com",
       "ok": true,
       "code": 402,
-      "ms": 445,
+      "ms": 198,
       "history": [
         [
           "2026-11-05",
@@ -123,6 +131,10 @@
         ],
         [
           "2026-11-12",
+          1
+        ],
+        [
+          "2026-11-13",
           1
         ]
       ]
@@ -133,7 +145,7 @@
       "host": "geo.magnusmagi.com",
       "ok": true,
       "code": 402,
-      "ms": 288,
+      "ms": 127,
       "history": [
         [
           "2026-11-05",
@@ -165,6 +177,10 @@
         ],
         [
           "2026-11-12",
+          1
+        ],
+        [
+          "2026-11-13",
           1
         ]
       ]
@@ -175,7 +191,7 @@
       "host": "magnusmagi.com",
       "ok": true,
       "code": 403,
-      "ms": 280,
+      "ms": 193,
       "history": [
         [
           "2026-11-05",
@@ -208,38 +224,42 @@
         [
           "2026-11-12",
           1
+        ],
+        [
+          "2026-11-13",
+          1
         ]
       ]
     }
   ],
   "week": {
-    "from": "2026-11-05",
-    "to": "2026-11-11",
-    "commits": 14,
+    "from": "2026-11-06",
+    "to": "2026-11-12",
+    "commits": 12,
     "prs": 0,
     "issues": 0,
     "reviews": 0,
-    "private": 207,
-    "total": 223,
+    "private": 229,
+    "total": 244,
     "repos": [
       {
         "name": "magi-obsidian",
         "count": 6
       },
       {
-        "name": "MagnusMagi",
-        "count": 5
-      },
-      {
         "name": "Quitter",
         "count": 3
+      },
+      {
+        "name": "MagnusMagi",
+        "count": 2
+      },
+      {
+        "name": "check-devops",
+        "count": 1
       }
     ],
     "days": [
-      {
-        "date": "2026-11-05",
-        "count": 58
-      },
       {
         "date": "2026-11-06",
         "count": 146
@@ -263,6 +283,10 @@
       {
         "date": "2026-11-11",
         "count": 15
+      },
+      {
+        "date": "2026-11-12",
+        "count": 79
       }
     ]
   }
